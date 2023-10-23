@@ -30,7 +30,7 @@ def generate_text(text, max_letters):
 
 import telebot
 
-API_TOKEN = '5680605126:AAHoizezefSdwTtUwixyGxnZM3QBczPIFOY'
+API_TOKEN = '' # Write your API here.
 
 MAX_LEN = 75
 
